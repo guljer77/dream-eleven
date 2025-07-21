@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Bangladesh",
+    "hand": "left",
+    "position": "all-rounder",
+    "price": 7500
+  },
+  {
+    "id": 2,
+    "name": "Virat Kohli",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "India",
+    "hand": "right",
+    "position": "batsman",
+    "price": 9500
+  },
+  {
+    "id": 3,
+    "name": "David Warner",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Australia",
+    "hand": "left",
+    "position": "batsman",
+    "price": 8200
+  },
+  {
+    "id": 4,
+    "name": "Babar Azam",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Pakistan",
+    "hand": "right",
+    "position": "batsman",
+    "price": 8700
+  },
+  {
+    "id": 5,
+    "name": "Ben Stokes",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "England",
+    "hand": "left",
+    "position": "all-rounder",
+    "price": 9100
+  },
+  {
+    "id": 6,
+    "name": "Rashid Khan",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Afghanistan",
+    "hand": "right",
+    "position": "bowler",
+    "price": 7800
+  },
+  {
+    "id": 7,
+    "name": "Jasprit Bumrah",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "India",
+    "hand": "right",
+    "position": "bowler",
+    "price": 9900
+  },
+  {
+    "id": 8,
+    "name": "Kane Williamson",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "New Zealand",
+    "hand": "right",
+    "position": "batsman",
+    "price": 8800
+  },
+  {
+    "id": 9,
+    "name": "Glenn Maxwell",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Australia",
+    "hand": "right",
+    "position": "all-rounder",
+    "price": 7600
+  },
+  {
+    "id": 10,
+    "name": "Mushfiqur Rahim",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Bangladesh",
+    "hand": "right",
+    "position": "batsman",
+    "price": 7000
+  },
+  {
+    "id": 11,
+    "name": "Mohammad Rizwan",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Pakistan",
+    "hand": "right",
+    "position": "batsman",
+    "price": 7700
+  },
+  {
+    "id": 12,
+    "name": "Trent Boult",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "New Zealand",
+    "hand": "left",
+    "position": "bowler",
+    "price": 8400
+  },
+  {
+    "id": 13,
+    "name": "Andre Russell",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "West Indies",
+    "hand": "right",
+    "position": "all-rounder",
+    "price": 8200
+  },
+  {
+    "id": 14,
+    "name": "Joe Root",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "England",
+    "hand": "right",
+    "position": "batsman",
+    "price": 9000
+  },
+  {
+    "id": 15,
+    "name": "Mehidy Hasan Miraz",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Bangladesh",
+    "hand": "right",
+    "position": "all-rounder",
+    "price": 7600
+  },
+  {
+    "id": 16,
+    "name": "Steve Smith",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Australia",
+    "hand": "right",
+    "position": "batsman",
+    "price": 9500
+  },
+  {
+    "id": 17,
+    "name": "Shaheen Afridi",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Pakistan",
+    "hand": "left",
+    "position": "bowler",
+    "price": 8600
+  },
+  {
+    "id": 18,
+    "name": "Hardik Pandya",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "India",
+    "hand": "right",
+    "position": "all-rounder",
+    "price": 8300
+  },
+  {
+    "id": 19,
+    "name": "Tamim Iqbal",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Bangladesh",
+    "hand": "left",
+    "position": "batsman",
+    "price": 7400
+  },
+  {
+    "id": 20,
+    "name": "Sam Curran",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "England",
+    "hand": "left",
+    "position": "all-rounder",
+    "price": 7800
+  },
+  {
+    "id": 21,
+    "name": "Mustafizur Rahman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/403900/403990.6.jpg",
+    "country": "Bangladesh",
+    "hand": "left",
+    "position": "bowler",
+    "price": 7900
+  }
+]
